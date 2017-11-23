@@ -20,7 +20,7 @@ public class Fox : MonoBehaviour {
 		
 	}
 
-    void OnCollisionEnter2D(Collision2D collider)
+    void OnTriggerEnter2D(Collider2D collider)
     {
         
 
