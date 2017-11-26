@@ -243,6 +243,7 @@
     <Compile Include="Assets\Scripts\Defenders\Gnome.cs" />
     <Compile Include="Assets\Scripts\Defenders\Shooter.cs" />
     <Compile Include="Assets\Scripts\Defenders\Stone.cs" />
+    <Compile Include="Assets\Scripts\DefenderSpawner.cs" />
     <Compile Include="Assets\Scripts\Fade.cs" />
     <Compile Include="Assets\Scripts\Health.cs" />
     <Compile Include="Assets\Scripts\LevelManager.cs" />
